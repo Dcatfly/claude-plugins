@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dcatfly-plugins",
+  "description": "Dcatfly's plugin collection",
+  "owner": {
+    "name": "Dcatfly"
+  },
+  "plugins": [
+    {
+      "name": "weixin-claude-code",
+      "description": "WeChat Channel for Claude Code — Enables bidirectional messaging between WeChat and Claude Code via iLink Bot API",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Dcatfly/weixin_claude_code.git"
+      },
+      "category": "channels"
+    }
+  ]
+}
