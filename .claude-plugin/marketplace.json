@@ -14,6 +14,15 @@
         "url": "https://github.com/Dcatfly/weixin_claude_code.git"
       },
       "category": "channels"
+    },
+    {
+      "name": "cc-desktop-statusline",
+      "description": "Status line mod for the Claude desktop app — a band above the prompt with directory and branch, skill, context, 5h and weekly limits (Fable included) and output speed, plus tokens and cost left of the model name",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Dcatfly/claude-desktop-statusline.git"
+      },
+      "category": "productivity"
     }
   ]
 }
